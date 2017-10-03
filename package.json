@@ -1,0 +1,21 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "A crowd-source subscription tool",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.0",
+    "sinon": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "Lee Jun Yeong <junyeong9619@gmail.com>",
+  "license": "ISC"
+}
